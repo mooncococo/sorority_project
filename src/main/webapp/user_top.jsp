@@ -23,6 +23,7 @@
 		font-weight: bold;
 		font-size: 2em;
 		background-color: #efe4d2;
+		/* 안녕? */
 	} 
 	
 	.nav-color{
