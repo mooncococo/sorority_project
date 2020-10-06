@@ -18,7 +18,6 @@
 		height: 60vh;
 		width:100%;
 		text-align: center;
-		/*dasdsajdlksadlksakldsadsaklnsdakln  */
 		  
 	} 
 	
